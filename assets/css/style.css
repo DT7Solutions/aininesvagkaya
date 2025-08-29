@@ -56,7 +56,7 @@
   */
   --tp-common-white: #ffffff;
   --tp-common-black: #000229;
-  --tp-common-orange: #FF7A41;
+  --tp-common-orange: #ff5400;
   --tp-common-purple: #FF75F9;
   --tp-common-green: #5FC33B;
   --tp-common-green-2: #21B641;
@@ -64,9 +64,9 @@
   --tp-common-yellow-2: #FFCE57;
   --tp-common-yellow-3: #F8FF35;
   --tp-common-yellow-4: #FFC530;
-  --tp-common-blue: #6865FF;
-  --tp-common-blue-2: #1117A0;
-  --tp-common-blue-3: #5138EE;
+  --tp-common-blue: #ff5400;
+  --tp-common-blue-2: #ff5400;
+  --tp-common-blue-3: #ff5400;
   --tp-common-blue-4: #600EE4;
   --tp-common-red: #FF3C82;
   --tp-heading-primary: #000229;
@@ -661,7 +661,7 @@ input[type=color] {
 
 .tp-btn-blue-sm {
   display: inline-block;
-  background: #5B6CFF;
+  background: #ff5400;
   box-shadow: inset -2px -2px 2px rgba(7, 13, 29, 0.3);
   border-radius: 100px;
   color: var(--tp-common-white);
